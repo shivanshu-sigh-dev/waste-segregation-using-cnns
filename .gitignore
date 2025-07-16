@@ -1,0 +1,41 @@
+# Python cache and environment files
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+.env
+.venv/
+env/
+venv/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data and model files
+*.h5
+*.hdf5
+*.ckpt
+*.pb
+*.tflite
+*.pkl
+*.joblib
+*.npz
+*.npy
+*.zip
+
+# Dataset folders (uncomment if you want to ignore data)
+data/
+# dataset/
+# datasets/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary
