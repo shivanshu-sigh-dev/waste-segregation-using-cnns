@@ -68,7 +68,7 @@ This project implements an automated waste material segregation system using Con
 
 ## Requirements
 
-- Python 3.7+
+- Python 3.12
 - TensorFlow
 - NumPy
 - Pandas
