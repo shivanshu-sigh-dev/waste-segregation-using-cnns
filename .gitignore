@@ -21,7 +21,6 @@ venv/
 *.joblib
 *.npz
 *.npy
-*.zip
 
 # Dataset folders (uncomment if you want to ignore data)
 data/
